@@ -1,0 +1,20 @@
+git clone - faz download da pasta do git para o pc.
+
+git status - mostra o conteúdo da pasta.
+
+git add nome-do-arquivo- - adiciona o arquivo.
+
+git commit -m "mensagem" - comitar o arquivo.
+
+git log - mostra os commits.
+
+git branch - mostra a branch atual.
+
+git branch nome-da-branch- cria uma nova branch.
+
+git checkout nome-da-branch - acessaa branch criada.
+
+git checkout -b nome-da-branch - cria e acessa a nova branch.
+
+git push origin nome-da-branch - envia alterações feitas pro github.
+

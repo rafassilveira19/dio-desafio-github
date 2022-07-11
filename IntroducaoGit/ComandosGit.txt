@@ -1,0 +1,25 @@
+echo - imprime algo no terminal. 
+
+whoami - mostra o nome do usuário.
+
+clear - limpa o terminal.
+
+pwd - mostra a pasta atual.
+
+ls - mostra o conteúdo da pasta atual. 
+
+cd - muda a pasta.
+
+mkdir - cria uma nova pasta. (obs: criar pasta sem espaços)
+
+touch - cria um arquivo.
+
+cp - copia uma pasta/arquivo
+
+rm - apaga arquivo
+
+mv - move um arquivo para outra pasta.
+
+cat - mostra o que está nos arquivos.
+
+grep - pesquisa algo específico. 
